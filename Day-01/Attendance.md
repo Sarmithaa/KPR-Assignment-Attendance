@@ -3,3 +3,5 @@
 | Registration No | Name   | Department    |
 | :---:   | :---: | :---: |
 | 1214214 | Santhosh NC   | CSE   |
+| 22cb050 | Sarmithaa P L   | CSBS  |
+
